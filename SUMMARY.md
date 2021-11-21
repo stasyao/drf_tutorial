@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Chapter 1](chapter1.md)
-* [Chapter 2](chapter2.md)
+* [API для чтения данных: общая схема](chapter1.md)
+* [API для чтения данных: разбираем по винтикам сериалайзер](chapter2.md)
