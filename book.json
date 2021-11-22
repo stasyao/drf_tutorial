@@ -4,6 +4,7 @@
   "structure": { 
       "summary": "SUMMARY.md" 
   },
+  "language": "ru",
   "plugins": [ "github"],
   "pluginsConfig": {
       "github": {
