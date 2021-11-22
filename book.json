@@ -1,6 +1,13 @@
 {
   "root": "./docs",
+  "title": "Django REST Framework: учебник для начинающих",
   "structure": { 
       "summary": "SUMMARY.md" 
-  } 
+  },
+  "plugins": [ "github"],
+  "pluginsConfig": {
+      "github": {
+          "url": "https://github.com/stasyao/drf_tutorial"
+      }
+  }
 }
