@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1634906115299-2e80ebf65d8a?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzc1OTUxNjY&ixlib=rb-1.2.1&q=85
-coverY: 0
----
-
 # Введение
 
 Цель учебника — максимально подробно разобрать, как работают различные части Django REST Framework (DRF), и дать фундаментальное понимание устройства этого фреймворка.
