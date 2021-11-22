@@ -1,4 +1,8 @@
-[обложка]
+---
+cover: >-
+  https://images.unsplash.com/photo-1636958714700-51c16720bc4e?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzc1OTgyOTU&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
 
 # Введение
 
