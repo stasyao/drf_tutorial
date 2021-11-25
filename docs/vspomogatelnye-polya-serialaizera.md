@@ -1,6 +1,6 @@
 # Вспомогательные поля сериалайзера
 
-#### SerializerMethodField
+### SerializerMethodField
 
 [Поле](https://github.com/encode/django-rest-framework/blob/0d5250cffada2ac250e24407953d4862d04d3dae/rest\_framework/fields.py#L1854) работает **только на чтение**.
 
@@ -34,10 +34,10 @@ class CapitalInfoSerializer(serializers.ModelSerializer):
 
 Сериалайзер после обработки поступившей к нему записи из `Capital` вернет ее в формате `{"population_proportion":"15%"}`.
 
-#### ReadOnlyField
+### ReadOnlyField
 
 [Поле](https://github.com/encode/django-rest-framework/blob/0d5250cffada2ac250e24407953d4862d04d3dae/rest\_framework/fields.py#L1811) работает **только на чтение** и просто возвращает значение, которое есть в соответствующем поле модели, без какого-либо преобразования со стороны сериалайзера.
 
-#### HiddenField
+### HiddenField
 
 [Поле](https://github.com/encode/django-rest-framework/blob/0d5250cffada2ac250e24407953d4862d04d3dae/rest\_framework/fields.py#L1832) работает **только на запись**. Принимает при создании только один аргумент `default`. Пара `{"название_поля":"дефолтное_значение"}` включается в `validated_data`.
